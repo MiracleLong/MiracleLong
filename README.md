@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-you is my ![Visitor Count](https://profile-counter.glitch.me/LHDargon/count.svg) toutist.
+you is my ![Visitor Count](https://profile-counter.glitch.me/MiracleLong/count.svg) toutist.
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHDargon&layout=compact)](https://github.com/LHDargon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleLong&layout=compact)](https://github.com/MiracleLong/github-readme-stats)
 
-![Miracle's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHDargon&show_icons=true&theme=tokyonight)
+![Miracle's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiracleLong&show_icons=true&theme=tokyonight)
 
