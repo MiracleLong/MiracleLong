@@ -31,6 +31,6 @@ https://github-readme-stats.vercel.app/api?username=MiracleLong&show_icons=true&
 -->
 ## 今年汇总
 
-<img align="" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiracleLong&show_icons=true&bg_color=0,EC6C6C,FFD478,FFFC78,73FA78,73FA79&theme=graywhite&locale=cn" /> <img align="" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleLong&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="195px" width="500px" src="https://github-readme-stats.vercel.app/api?username=MiracleLong&show_icons=true&bg_color=0,EC6C6C,FFD478,FFFC78,73FA78,73FA79&theme=graywhite&locale=cn" /> <img align="" height="195px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleLong&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 
