@@ -35,16 +35,22 @@ https://github-readme-stats.vercel.app/api?username=MiracleLong
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liyupi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 -->
 
-<!-- GitHub统计卡片
-<div style="background: linear-gradient(to right, #EC6C6C, #FFD478, #FFFC78, #73FA78, #73FA79); padding: 10px; border-radius: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MiracleLong&show_icons=true&locale=cn" alt="Miracle's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleLong&layout=compact&locale=cn" alt="Top Langs">
-</div>
+<!-- GitHub统计卡片主题
+default（默认主题）
+radical（激进主题）
+dark（暗黑主题）
+gruvbox（Gruvbox 主题）
+tokyonight（Tokyo Night 主题）
+onedark（One Dark 主题）&theme=graywhite
+cobalt（Cobalt 主题）
+synthwave（Synthwave 主题）
+highcontrast（高对比度主题）
+dracula（Dracula 主题）
+merko（Merko 主题）
+vue（Vue 主题）
+react（React 主题）
+shades-of-purple（Shades of Purple 主题）
 
- 语言卡片 
-<div style="background: linear-gradient(to right, #EC6C6C, #FFD478, #FFFC78, #73FA78, #73FA79); padding: 10px; border-radius: 10px;">
-    
-</div>
 -->
 
 ## 今年汇总
