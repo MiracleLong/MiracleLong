@@ -55,6 +55,6 @@ shades-of-purple（Shades of Purple 主题）
 
 ## 今年汇总
 
-<img align="" height="185px" width="450px" src="https://github-readme-stats.vercel.app/api?username=MiracleLong&show_icons=true&bg_color=0,EC6C6C,FFD478,FFFC78,73FA78,73FA79&locale=cn&theme=graywhite" /><img align="" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleLong&layout=compact&bg_color=0,73FA79,73FDFF,D783F0&locale=cn&theme=graywhite" />
+<img align="" height="185px" src="https://github-readme-stats.vercel.app/api?username=MiracleLong&show_icons=true&bg_color=0,EC6C6C,FFD478,FFFC78,73FA78,73FA79&locale=cn&theme=graywhite" /><img align="" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleLong&layout=compact&bg_color=0,73FA79,73FDFF,D783F0&locale=cn&theme=graywhite" />
 
 
