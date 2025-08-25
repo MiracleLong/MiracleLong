@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-you is my ![Visitor Count](https://profile-counter.glitch.me/MiracleLong/count.svg) toutist.
+**you is my** ![](https://komarev.com/ghpvc/?username=MiracleLong&style=flat-square) toutist.
 
 ---
 
